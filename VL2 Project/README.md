@@ -58,7 +58,7 @@ Run all cells to generate:
 •Load distribution comparison
 •Visualization plots
 
-🖼️ Output Visuals
+# Output Visuals
 Graph 1: Determinstic link utilization
 Graph 2:  VLB link utilization
 (Figures generated dynamically by Matplotlib in the notebook.)
@@ -66,4 +66,5 @@ Graph 2:  VLB link utilization
 # References
 A. Greenberg, J. R. Hamilton, N. Jain, S. Kandula, et al.
 “VL2: A Scalable and Flexible Data Center Network,”
+
 SIGCOMM, 2009.
